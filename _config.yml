@@ -1,0 +1,28 @@
+name: PlanetDigital
+favicon: null
+layout_spectrum: 0.05366006586700678
+typography_spectrum: 0.5510748354718089
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8279017573222518
+  lightness: 0.11861709970980883
+  saturation: 0.704192113596946
+  rhythmicContrast: 0.35938448808155954
+purpose: []
